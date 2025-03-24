@@ -30,6 +30,6 @@
 
 ## 📫 Let's Connect
 📧 Email: lingyw@umich.edu  
-🔗 [LinkedIn](www.linkedin.com/in/lingyuwang11)  
+🔗 Linkedin: www.linkedin.com/in/lingyuwang11
 
 
