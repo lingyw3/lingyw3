@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Lingyu
 
-<!--
-**lingyw3/lingyw3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Geospatial Data Science  @ University of Michigan, Ann Arbor  
+🎓 BS in Quantitative Eocnomics and Earth System Science @ University of California, Irvine
+📍 Based in Ann Arbor | 🌱 Passionate about sustainable tech, climate adaptation, and spatial storytelling
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Do
+- 🔬 Research on urban forestry and climate change
+- 🗺️ Geospatial analysis with ArcGIS, QGIS, and Python
+- 🧪 Data science using Python and R
+- 🌐 Front-end development using HTML/CSS and Django
+
+---
+
+## 🧰 Tools & Technologies
+**Languages**: Python, R, C++, HTML/CSS  
+**Tools**: ArcGIS Pro, QGIS, ERDAS IMAGINE, Django, SPSS  
+**Skills**: Data cleaning, modeling, visualization, storytelling
+
+---
+
+## 🌟 Featured Projects
+- [Plant Your City](https://github.com/lingyw3/plant-your-city) – A mobile-first urban forestry resource site
+- *(More coming soon – Python, GIS, and data science projects!)*
+
+---
+
+## 📫 Let's Connect
+📧 Email: lingyw@umich.edu  
+🔗 [LinkedIn](www.linkedin.com/in/lingyuwang11)  
+
+
