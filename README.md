@@ -2,6 +2,7 @@
 
 🎓 Master's Student in Geospatial Data Science  @ University of Michigan, Ann Arbor  
 🎓 BS in Quantitative Eocnomics and Earth System Science @ University of California, Irvine
+
 📍 Based in Ann Arbor | 🌱 Passionate about sustainable tech, climate adaptation, and spatial storytelling
 
 ---
