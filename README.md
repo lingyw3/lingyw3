@@ -16,8 +16,8 @@
 ---
 
 ## 🧰 Tools & Technologies
-**Languages**: Python, R, C++, HTML/CSS  
-**Tools**: ArcGIS Pro, QGIS, ERDAS IMAGINE, Django, SPSS  
+**Languages**: Python, HTML/CSS/Javascript , R, C++, 
+**Tools**: ArcGIS Pro, ArcGIS Online, QGIS, ERDAS IMAGINE, Django, SPSS  
 **Skills**: Data cleaning, modeling, visualization, storytelling
 
 ---
@@ -29,7 +29,7 @@
 ---
 
 ## 📫 Let's Connect
-📧 Email: lingyw@umich.edu  
+📧 Email: lingyw@umich.edu 
 🔗 Linkedin: www.linkedin.com/in/lingyuwang11
 
 
